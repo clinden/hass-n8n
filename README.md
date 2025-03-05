@@ -1,3 +1,7 @@
+# ⚠️ Temporary fork to rollback Ingress addition
+
+---
+
 # Home Assistant Add-on: Hass-n8n
 
 ## What is n8n?
